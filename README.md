@@ -8,13 +8,6 @@
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED.svg)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Final Practical Assessment & Major Capstone Project**  
-> **Course:** Big Data Analytics (BDA) — 8th Semester  
-> **Institution:** Department of Computer Science & Engineering, Arya College of Engineering & I.T.  
-> **Affiliation:** Rajasthan Technical University (RTU), Kota  
-> **Candidate:** Gaurav Singh Sikarwar (Roll No: `22EARCS053`)
-
----
 
 ## 📌 1. Project Overview
 
